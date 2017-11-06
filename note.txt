@@ -1,0 +1,4 @@
+1. 在python交互式编辑里面：_ 表示最后一个表达式的值    print支持输出重定向，符号>>用来重定向输出（print>> sys.stderr）
+2. python从键盘输入的方法raw_input();
+3. help()查询对象,方法，容器的所有信息，例如help(raw_input),help(dict)
+4. 
